@@ -1,0 +1,4 @@
+[19-Oct-2021 20:28:50 UTC] PHP Notice:  Undefined variable: guest in /home2/smartlin/abbrothersenterprises.com/php/form-process.php on line 55
+[19-Oct-2021 20:28:50 UTC] PHP Notice:  Undefined variable: event in /home2/smartlin/abbrothersenterprises.com/php/form-process.php on line 58
+[19-Oct-2021 20:28:59 UTC] PHP Notice:  Undefined variable: guest in /home2/smartlin/abbrothersenterprises.com/php/form-process.php on line 55
+[19-Oct-2021 20:28:59 UTC] PHP Notice:  Undefined variable: event in /home2/smartlin/abbrothersenterprises.com/php/form-process.php on line 58
